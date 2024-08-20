@@ -23,7 +23,7 @@ This is a Flutter-based translation app that utilizes the power of the Google Ge
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/onlymearham/flutter_translation_app_using_gemini_api.git
+   git clone https://github.com/dev-arham/Flutter-Translation-App-Using-Gemini-API.git
    cd translator-app
    ```
 
